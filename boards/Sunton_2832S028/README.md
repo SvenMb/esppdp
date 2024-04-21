@@ -10,3 +10,16 @@ older version with ILI9341, since the board layout changed.
 
 Board before modification:
 ![pre modification](pre.png)
+
+You have to remove the RGB-led and cut two lines:
+![LED removal and lines cut](led_removed_lines_cutted.png)
+
+Now you can solder the PSRAM chip and add lines to the IO16, IO17 exposed on the former led place. Also add 10k pull-up as you can see here:
+![post modification](post.png)
+
+## flash firmware
+
+after flashing the firmware and inserting the sdcard with the harddrive image, BSD 2.11 will boot:
+![in use](in_use.png)
+
+
