@@ -17,9 +17,8 @@ October 2023
 ---
 
 This fork integrates the sunton ESP32 2832S028 board. I try to do this in a way it simplifys the integration of other boards.
-SvenMb
-
 Patched for IDF 5.2.1
 
+SvenMb
 April 2024
 
