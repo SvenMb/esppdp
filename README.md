@@ -14,4 +14,4 @@ October 2023
 
 ---
 
-**>> changes to integrate sunton 2832S028 board currently in Sunton_2832S028 branch <<**
+**>> changes to integrate sunton 2832S028 board and ESP-IDF 5.2.1 currently in Sunton_2832S028 branch <<**
